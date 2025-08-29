@@ -118,8 +118,37 @@ print("\nLenght of X_test ",len(X_test))
 ```
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+#### Data checking:
 
+<img width="966" height="208" alt="image" src="https://github.com/user-attachments/assets/4d0c90de-fbb7-48b1-a0aa-48be3e9d9515" />
+
+### DUPLICATE IDENTIFICATION:
+<img width="519" height="577" alt="image" src="https://github.com/user-attachments/assets/dc391ca2-7993-4ceb-b216-aecbf2a549d6" />
+
+
+### Values of 'Y':
+<img width="382" height="113" alt="image" src="https://github.com/user-attachments/assets/ebf6c200-d71f-46d1-afc6-86bc8bd55cca" />
+
+### Outliers:
+<img width="1466" height="395" alt="image" src="https://github.com/user-attachments/assets/1a7aaff3-7930-47af-9d7c-bbfca5184661" />
+
+
+### Checking datasets after dropping string values data from dataset:
+<img width="1202" height="331" alt="image" src="https://github.com/user-attachments/assets/2365646a-9719-4e28-9fa3-bbf748f2841a" />
+
+
+
+### Normalize the dataset:
+<img width="778" height="569" alt="image" src="https://github.com/user-attachments/assets/345a376c-c0af-4ce9-9459-956bda9ba9d2" />
+
+
+
+### Split the dataset:
+<img width="538" height="308" alt="image" src="https://github.com/user-attachments/assets/194b55f0-b989-4602-84ac-a6fbcef002c3" />
+
+
+### Training and testing model:
+<img width="668" height="633" alt="image" src="https://github.com/user-attachments/assets/c84f3140-54e0-4bde-bf03-00918df85b67" />
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
